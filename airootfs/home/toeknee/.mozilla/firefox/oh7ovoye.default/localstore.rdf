@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="chrome://mkiosk/content/options/m_options.xul">
+    <NC:persist RDF:resource="chrome://mkiosk/content/options/m_options.xul#col-rules"/>
+    <NC:persist RDF:resource="chrome://mkiosk/content/options/m_options.xul#col-enabled"/>
+    <NC:persist RDF:resource="chrome://mkiosk/content/options/m_options.xul#col-sync-cookies"/>
+    <NC:persist RDF:resource="chrome://mkiosk/content/options/m_options.xul#mkiosk-preferences"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/preferences/connection.xul">
+    <NC:persist RDF:resource="chrome://browser/content/preferences/connection.xul#ConnectionsDialog"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="place:sort=14&amp;type=6&amp;maxResults=10&amp;queryType=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://browser/content/sanitize.xul">
+    <NC:persist RDF:resource="chrome://browser/content/sanitize.xul#SanitizeDialog"/>
+    <NC:persist RDF:resource="chrome://browser/content/sanitize.xul#detailsExpander"/>
+    <NC:persist RDF:resource="chrome://browser/content/sanitize.xul#itemList"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/web-panels.xul#web-panels-browser"
+                   cachedurl="chrome://browser/content/bookmarks/bookmarksPanel.xul" />
+  <RDF:Description RDF:about="place:folder=7&amp;queryType=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="about:config#typeCol"
+                   ordinal="5"
+                   width="93" />
+  <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul">
+    <NC:persist RDF:resource="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://closebutton/content/options.xul">
+    <NC:persist RDF:resource="chrome://closebutton/content/options.xul#closebutton-options-window"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="about:config">
+    <NC:persist RDF:resource="about:config#prefCol"/>
+    <NC:persist RDF:resource="about:config#lockCol"/>
+    <NC:persist RDF:resource="about:config#typeCol"/>
+    <NC:persist RDF:resource="about:config#valueCol"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/web-panels.xul">
+    <NC:persist RDF:resource="chrome://browser/content/web-panels.xul#web-panels-browser"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#toolbar-menubar"
+                   currentset="menubar-items,menu_preferences"
+                   autohide="true" />
+  <RDF:Description RDF:about="chrome://mkiosk/content/options/m_options.xul#col-sync-cookies"
+                   ordinal="5" />
+  <RDF:Description RDF:about="place:folder=BOOKMARKS_MENU&amp;folder=UNFILED_BOOKMARKS&amp;folder=TOOLBAR&amp;sort=12&amp;excludeQueries=1&amp;maxResults=10&amp;queryType=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#navigator-toolbox"
+                   iconsize="small" />
+  <RDF:Description RDF:about="about:config#prefCol"
+                   ordinal="1"
+                   sortDirection="ascending"
+                   width="538" />
+  <RDF:Description RDF:about="chrome://mkiosk/content/options/m_options.xul#col-enabled"
+                   ordinal="3" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#TabsToolbar"
+                   currentset="tabbrowser-tabs,new-tab-button,alltabs-button" />
+  <RDF:Description RDF:about="place:folder=25&amp;queryType=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://mozapps/content/downloads/unknownContentType.xul#unknownContentType"
+                   screenY="281"
+                   screenX="437" />
+  <RDF:Description RDF:about="chrome://mkiosk/content/options/m_options.xul#mkiosk-preferences"
+                   lastSelected="pane1"
+                   screenX="589"
+                   screenY="151" />
+  <RDF:Description RDF:about="about:config#lockCol"
+                   ordinal="3"
+                   width="109" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul">
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#navigator-toolbox"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#main-window"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-box"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-title"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#toolbar-menubar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#TabsToolbar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#nav-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#PersonalToolbar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#addon-bar"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="about:config#valueCol"
+                   ordinal="7"
+                   width="178" />
+  <RDF:Description RDF:about="place:folder=BOOKMARKS_MENU&amp;queryType=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://browser/content/sanitize.xul#itemList"
+                   collapsed="false" />
+  <RDF:Description RDF:about="chrome://mkiosk/content/options/m_options.xul#col-rules"
+                   ordinal="1" />
+  <RDF:Description RDF:about="chrome://browser/content/places/bookmarkProperties.xul">
+    <NC:persist RDF:resource="chrome://browser/content/places/bookmarkProperties.xul#bookmarkproperties"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://mozapps/content/downloads/unknownContentType.xul">
+    <NC:persist RDF:resource="chrome://mozapps/content/downloads/unknownContentType.xul#unknownContentType"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#addon-bar"
+                   currentset="addonbar-closebutton,status-bar" />
+  <RDF:Description RDF:about="place:folder=TOOLBAR&amp;queryType=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://browser/content/preferences/connection.xul#ConnectionsDialog"
+                   screenX="72"
+                   screenY="-2" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#PersonalToolbar"
+                   collapsed="false"
+                   currentset="personal-bookmarks,mkiosk_allbuttons" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
+                   width="1920"
+                   screenX="-43"
+                   screenY="92"
+                   height="976"
+                   sizemode="normal" />
+  <RDF:Description RDF:about="chrome://browser/content/places/bookmarkProperties.xul#bookmarkproperties"
+                   width="440"
+                   screenX="641"
+                   screenY="349" />
+  <RDF:Description RDF:about="chrome://browser/content/sanitize.xul#SanitizeDialog"
+                   screenX="589"
+                   screenY="356" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#nav-bar"
+                   currentset="urlbar-container,search-container,webrtc-status-button,bookmarks-menu-button,downloads-button,home-button,cb-button,social-share-button" />
+  <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"
+                   screenX="565"
+                   screenY="157"
+                   lastSelected="paneTabs" />
+  <RDF:Description RDF:about="chrome://closebutton/content/options.xul#closebutton-options-window"
+                   screenX="723"
+                   screenY="389" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-box"
+                   src="chrome://browser/content/web-panels.xul"
+                   width="205" />
+  <RDF:Description RDF:about="chrome://browser/content/sanitize.xul#detailsExpander"
+                   class="expander-up" />
+</RDF:RDF>

@@ -1,0 +1,7 @@
+[Default Applications]
+application/x-genesis-rom=mousepad.desktop
+application/octet-stream=mousepad.desktop
+
+[Added Associations]
+application/x-genesis-rom=mousepad.desktop;
+application/octet-stream=mousepad.desktop;

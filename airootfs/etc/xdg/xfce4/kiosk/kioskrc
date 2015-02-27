@@ -1,0 +1,17 @@
+[xfce4-panel]
+CustomizePanel=%root,root
+
+[xfce4-session]
+CustomizeSplash=%root,root
+CustomizeChooser=%root,root
+CustomizeLogout=%root,root
+CustomizeCompatibility=%wheel
+Shutdown=%root,root
+CustomizeSecurity=%root,root
+
+[xfdesktop]
+UserMenu=%root,root
+CustomizeBackdrop=%root,root
+CustomizeDesktopMenu=%root,root
+CustomizeWindowlist=%root,root
+CustomizeDesktopIcons=%root,root

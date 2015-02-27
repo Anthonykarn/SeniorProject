@@ -1,0 +1,7 @@
+This computer session will end and computer will reboot in 5 minutes.  
+
+
+Click OK to continue, reboot in 5 minutes.  
+
+
+Click CANCEL to cancel reboot and continue working.  

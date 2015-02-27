@@ -1,0 +1,5 @@
+[Default Applications]
+inode/blockdevice=mousepad.desktop
+
+[Added Associations]
+inode/blockdevice=mousepad.desktop;

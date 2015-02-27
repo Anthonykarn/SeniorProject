@@ -1,0 +1,3 @@
+GPG_AGENT_INFO=/root/.gnupg/S.gpg-agent:651:1
+SSH_AUTH_SOCK=/root/.gnupg/S.gpg-agent.ssh
+SSH_AGENT_PID=651

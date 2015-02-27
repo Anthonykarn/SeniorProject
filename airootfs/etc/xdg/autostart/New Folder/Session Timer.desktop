@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=Session Timer
+Comment=Two hour limit or Midnight shutdown
+Exec=/usr/local/share/SessionTimer.sh
+OnlyShowIn=XFCE;
+StartupNotify=false
+Terminal=false
+Hidden=true
+

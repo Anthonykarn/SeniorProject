@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Chromium
+GenericName=Web Browser
+Comment=Access the Internet
+Exec=chromium %U
+Terminal=false
+Icon=chromium
+Type=Application
+Categories=GTK;Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;
+X-XFCE-Source=file:///usr/share/applications/chromium.desktop
+Path=
+StartupNotify=false

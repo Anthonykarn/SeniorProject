@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=Logon Agreement
+Comment=Logon Agree to terms
+Exec=/usr/local/share/question.sh
+OnlyShowIn=XFCE;
+StartupNotify=false
+Terminal=false
+Hidden=true
+

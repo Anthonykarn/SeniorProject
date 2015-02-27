@@ -1,0 +1,9 @@
+[Default Applications]
+application/gzip=org.gnome.FileRoller.desktop
+application/x-executable=mousepad.desktop
+application/octet-stream=mousepad.desktop
+
+[Added Associations]
+application/gzip=org.gnome.FileRoller.desktop;
+application/x-executable=mousepad.desktop;
+application/octet-stream=mousepad.desktop;

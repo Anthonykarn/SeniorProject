@@ -1,0 +1,6 @@
+#!/bin/bash
+for interface in /sys/class/net/wl*; do
+        break;
+done
+Interface=$(basename $interface)
+echo "en-any: using interface $Interface";

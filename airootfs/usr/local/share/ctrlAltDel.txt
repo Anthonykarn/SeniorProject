@@ -1,0 +1,10 @@
+You have clicked Ctrl+Alt+Del. 
+You have chosen to end your session.
+
+This computer session will end and restart.  
+
+
+Click OK to End the current session.  
+
+
+Click CANCEL to continue working.  
